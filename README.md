@@ -13,7 +13,7 @@
 
 
 
-  <a href="https://github.com/MrD1MOD"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MrD1MOD"><img alt="MrD1MOD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 
@@ -23,6 +23,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selinvictor&label=Profile%20views&color=0e75b6&style=flat" alt="selinvictor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selinvictor&label=Profile%20views&color=0e75b6&style=flat" alt="MrD1MOD" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selinvictor" alt="selinvictor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrD1MOD" alt="MrD1MOD" /></a> </p>
